@@ -5,7 +5,7 @@
  * See http://github.com/educoder/pest for details.
  *
  * This code is licensed for use, modification, and distribution
- * under the terms of the MIT License (see http://en.wikipedia.org/wiki/MIT_License)
+ * under the terms of the MIT License (see http://en.wikipedia.org/wiki/MIT_License) T
  */
 class Pest
 {
